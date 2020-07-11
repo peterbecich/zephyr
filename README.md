@@ -1,6 +1,7 @@
 # zephyr
 [![Maintainer: coot](https://img.shields.io/badge/maintainer-coot-lightgrey.svg)](http://github.com/coot)
 ![zephyr](https://github.com/coot/zephyr/workflows/Haskell%20CI/badge.svg)
+[![Test status](https://travis-ci.org/coot/zephyr.svg?branch=master)](https://travis-ci.org/coot/zephyr)
 
 A tree-shaking tool for [PureScript](https://github.com/purescript/purescript).
 `zephyr` takes root terms, finds all terms which are required to evaluate

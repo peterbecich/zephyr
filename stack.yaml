@@ -12,6 +12,7 @@ extra-deps:
 - network-3.0.1.1
 - these-1.0.1
 - semialign-1
+allow-newer: true
 resolver: lts-13.26
 flags:
   aeson-pretty:
